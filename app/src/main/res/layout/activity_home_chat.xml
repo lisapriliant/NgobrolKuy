@@ -97,7 +97,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Jungkook"
+                        android:text="ayang"
                         android:textSize="10pt"
                         android:fontFamily="@font/redhatdisplay_regular"
                         android:textStyle="bold"
