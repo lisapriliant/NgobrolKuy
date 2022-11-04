@@ -153,6 +153,7 @@
         android:layout_marginTop="32dp">
 
         <TextView
+            android:id="@+id/register"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="REGISTER"
@@ -168,6 +169,7 @@
     </androidx.cardview.widget.CardView>
 
     <TextView
+        android:id="@+id/loginakun"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Sudah punya akun?"
